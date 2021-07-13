@@ -1,0 +1,8 @@
+
+Main Admin Panel : localhost/blood bank2/admin
+ADMIN : username = admin
+        password = admin
+
+User's Login
+User: username = codeprojects	
+      password = 123456
